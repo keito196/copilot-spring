@@ -1,0 +1,11 @@
+Hello world hello from Java
+This is a sample file for testing word frequency counting
+Java is great and Java is fun
+The quick brown fox jumps over the lazy dog
+Hello there friend how are you doing today
+Words words words repeated words are important
+Testing the FileUtils countWordFrequency method
+This file contains various words for analysis
+Java programming is interesting and challenging
+Hello again this is the end of the file
+
